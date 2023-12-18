@@ -43,7 +43,7 @@ class BinaryIndexedTree {
 
         BinaryIndexedTree bit = new BinaryIndexedTree(arr);
 
-        int targetValue = 5;
+        int targetValue = 4;
 
         // 이진 탐색을 사용하여 숫자 7의 인덱스 찾기
         int foundIndex = bit.binarySearch(targetValue);
